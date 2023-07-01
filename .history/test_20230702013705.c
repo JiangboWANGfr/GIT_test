@@ -6,7 +6,7 @@ int test()
 
 int stagetest()
 {
-    printf("Hello stage test!");
+    printf("Hello stagetest!");
     return 0;
 }
 // ```
