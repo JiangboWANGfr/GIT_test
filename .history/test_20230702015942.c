@@ -1,6 +1,7 @@
 int test()
 {
-    printf("Hello World!");
+    printf("Hello test!");
     return 0;
 }
+
 // ```
