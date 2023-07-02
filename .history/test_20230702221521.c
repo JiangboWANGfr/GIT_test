@@ -50,8 +50,3 @@ int stage2(){
     printf("stage2");
     return 0;
 }
-
-int stage3(){
-    printf("stage3");
-    return 0;
-}

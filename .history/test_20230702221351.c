@@ -42,16 +42,7 @@ int add main2(){
     return 0;
 }
 
-int stage1(){
-    printf("stage1");
-    return 0;
-}
 int stage2(){
     printf("stage2");
-    return 0;
-}
-
-int stage3(){
-    printf("stage3");
     return 0;
 }
