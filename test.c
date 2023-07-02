@@ -55,3 +55,8 @@ int stage3(){
     printf("stage3");
     return 0;
 }
+
+int stage43(){
+    printf("stage43");
+    return 0;
+}
