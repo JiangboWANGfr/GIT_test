@@ -10,7 +10,3 @@ add branchtestfunc{
     return 0;}
 // dev remove test branch
 }
-
-add pushcolor{
-    printf("push color");
-    return 0;}
