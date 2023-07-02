@@ -36,8 +36,3 @@ int main()
     printf("Hello World!");
     return 0;
 }
-
-int add main2(){
-    printf("main2");
-    return 0;
-}
